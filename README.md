@@ -1,2 +1,2 @@
 # AES-IoT
-NodeMCU kartları arasında AES/HASH şifreleme yöntemiyle mesaj gönderilmesi.
+NodeMCU kartları arasında AES şifreleme yöntemleriyle mesaj gönderilmesi ve gönderilen mesajın HASH ile kontrol edilmesi
